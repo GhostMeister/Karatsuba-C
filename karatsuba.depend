@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544731584 source:c:\users\djossingona\documents\karatsuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"math.h"
+
+1544731836 source:c:\users\meister\documents\karatsuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"math.h"
+
